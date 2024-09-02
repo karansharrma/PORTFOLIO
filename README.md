@@ -1,2 +1,2 @@
 # Portfolio
-i have designed my portfolio using css and html
+I have designed my portfolio using css and html
